@@ -1,5 +1,6 @@
-# react-starter-kit-2021
-A Simple react starter kit. Supports client-side routing, ReduxJS, eslint with recommended lint rules, prettier and other best practices supported OOB
+# React Starter Kit — 2021  
+
+create an `.env` file as `.env.example` in the root of the project
 
 ## Building and running on localhost
 
@@ -20,3 +21,14 @@ To create a production build:
 ```sh
 npm run build
 ```
+
+## Running
+
+Open the file `public/index.html` in your browser
+
+
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**
